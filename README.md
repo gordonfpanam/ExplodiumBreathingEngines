@@ -3,4 +3,4 @@ Modified jet engines, explodium vapour intakes, and oxidizer tanks for Kerbal Sp
 
 These are configuration files only, no software. This is also a work in progress. MIT License similar to OhioBob's part pack.
 
-Currently these parts 'cheat' by taking atmosphere and calling it 'ExpVapour.' It's my intention to make this an atmospheric resource found only on Eve, but the ExpVapour intakes currently work on any planet with an appreciable atmosphere. 
+With the conversion of the intakes to atmospheric harvesters, the ExpVapour harvesters now only work on Eve, or any planet that has ExpVapour added as an atmospheric resource. Harvesters require manual activation, but otherwise work like the original intakes.
