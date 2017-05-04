@@ -1,6 +1,25 @@
+Original part textures belong to Squad / Deported B.V, used with permission:
+
+Kerbal Space Program © Deported B.V.
+Explodium Breathing Engines was created under Deported B.V.'s "Game Content Usage Rules"
+using assets from Kerbal Space Program. It is not endorsed by Deported B.V. and does not
+reflect the views or opinions of Deported B.V. or anyone officially involved in producing
+or managing Kerbal Space Program. As such, it does not contribute to the official narrative
+of the fictional universe, if applicable.
+
+Also:
+http://forum.kerbalspaceprogram.com/index.php?/topic/154851-add-on-posting-rules-march-8-2017/
+
+8. Legal boundaries 
+You may not decompile, modify or distribute any of the .dll files or other files KSP comes
+with beyond content of the GameData folder. Follow the EULA. For assemblies, you may only
+use exposed public or protected members of classes, and you may not examine the code within any member. 
+
+Remaining content licensed as follows:
+
 MIT License
 
-Copyright (c) 2017 gordonfpanam
+Copyright (c) 2017 Gordon Fecyk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
