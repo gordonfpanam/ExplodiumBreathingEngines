@@ -1,0 +1,12 @@
+{
+  "spec_version" : 1,
+  "identifier"   : "ExplodiumBreathingEngines",
+  "$kref"        : "#/ckan/spacedock/1362",
+  "depends": [
+    { "name": "ModuleManager" }
+	],
+	"suggests": [
+		{ "name": "RealPlume" },
+		{ "name": "SmokeScreen" }
+	]
+}
