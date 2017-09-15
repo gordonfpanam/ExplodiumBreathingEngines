@@ -2,6 +2,7 @@
   "spec_version" : 1,
   "identifier"   : "ExplodiumBreathingEngines",
   "$kref"        : "#/ckan/spacedock/1362",
+  "license"      : "MIT"
   "depends": [
     { "name": "ModuleManager" }
 	],
